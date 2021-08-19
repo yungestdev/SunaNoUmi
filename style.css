@@ -1,0 +1,27 @@
+html, body{
+    height: 100%;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: black;
+}
+#wrapper {
+    min-height: 100%;
+}
+
+
+h1{
+    color: rgb(255, 153, 0);
+    font: italic;
+}
+h2{
+    color: rgb(255, 153, 0);
+    position: fixed;
+    left: 23%;
+    top: 26%;
+}
+a{
+    color: rgb(255, 153, 0);
+    position: fixed;
+    left: 30%;
+    top: 30%;
+}
