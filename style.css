@@ -24,4 +24,6 @@ a{
     position: fixed;
     left: 30%;
     top: 30%;
+    height: 50px;
+    width: 50px;
 }
